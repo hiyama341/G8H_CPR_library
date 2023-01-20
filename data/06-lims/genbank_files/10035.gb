@@ -1,0 +1,33 @@
+LOCUS       pPCK1                   1000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10035
+VERSION     10035
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     promoter        1..1000
+                     /name="pPCK1"
+                     /color="#9EAFD2"
+                     /label="pPCK1"
+ORIGIN
+        1 cacatgtcga cgagtttgtc atcgaatccg taatgaaggc gcaagaaaaa ctagagagtg
+       61 ccagcgaacc gcgtctttcc cctcgccgct ttaactacgt agttctgata tctgacgacg
+      121 acgccatgaa gaaaaaagca gaagaaaaag aaataaaaac gctaagcaca cgatttgtgt
+      181 tttctttgtg cacaaaactt ggcgaacagc gccatctgtg tacagactga tcgttcgttg
+      241 tacgtacatt tacaacaaca ccaattctac tcaccgccat aaataacact ttaattttaa
+      301 tatatacttt tatatgcata taaccaactg acttccatca attctgacca gagcacttgg
+      361 gcagagcccc ccacccaggg ccttgtcgga aaaaatcgga atatcccaca cgatccaccg
+      421 gagaatatcg ggacgctgac gggtgaatgg agatctggat ttcctaattt ggatacatct
+      481 cttttctttt tttgactcac aataggaaaa aaccgagctt cctttcatcc ggcgcggctg
+      541 tgttctacat atcactgaag ctccgggtat tttaagttat acaagggaaa gatgccggct
+      601 agactagcaa gttttaggct gcttaacatt atggataggc ggataaaggg cccaaacagg
+      661 attgtaaagc ttagacgctt ctggttggac aatggtacgt ttgtgtatta agtaaggctt
+      721 ggctggggat agcaacattg ggcagagtat agaagaccac aaaaaaaagg tatataaggg
+      781 cagagaagtc tttgtaatgt gtgtaacttc tcttccatgt gtaatcagta tttctactta
+      841 cttcttaaat atacagaagt aagacagata accaacagcc tttcccagat atacatatat
+      901 atctttattt cagcttaaac aataattata tttgtttaac tcaaaaataa aaaaaaaaac
+      961 caaactcacg caactaatta ttccataata aaataacaac
+//
+

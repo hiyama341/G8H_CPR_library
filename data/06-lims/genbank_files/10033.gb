@@ -1,0 +1,33 @@
+LOCUS       pCYC1                    987 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10033
+VERSION     10033
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     promoter        1..987
+                     /name="pCYC1"
+                     /color="#D6B295"
+                     /label="pCYC1"
+ORIGIN
+        1 cagcattttc aaaggtgtgt tcttcgtcag acatgtttta gtgtgtgaat gaaataggtg
+       61 tatgttttct ttttgctaga caataattag gaacaaggta agggaactaa agtgtagaat
+      121 aagattaaaa aagaagaaca agttgaaaag gcaagttgaa atttcaagaa aaaagtcaat
+      181 tgaagtacag taaattgacc tgaatatatc tgagttccga caacaatgag tttaccaaag
+      241 agaacaatgg aataggaaac tttgaacgaa gaaaggaaag caggaaagga aaaaattttt
+      301 aggctcgaga acaatagggc gaaaaaacag gcaacgaacg aacaatggaa aaacgaaaaa
+      361 aaaaaaaaaa aacacagaaa agaatgcaga aagatgtcaa ctgaaaaaaa aaaaggtgaa
+      421 cacaggaaaa aaaataaaaa aaaaaaaaaa aaaaggagga cgaaacaaaa aagtgaaaaa
+      481 aaatgaaaat ttttttggaa aaccaagaaa tgaattatat ttccgtgtga gacgacatcg
+      541 tcgaatatga ttcagggtaa cagtattgat gtaatcaatt tcctacctga atctaaaatt
+      601 cccgggagca agatcaagat gttttcaccg atctttccgg tctctttggc cggggtttac
+      661 ggacgatggc agaagaccaa agcgccagtt catttggcga gcgttggttg gtggatcaag
+      721 cccacgcgta ggcaatcctc gagcagatcc gccaggcgtg tatatatagc gtggatggcc
+      781 aggcaacttt agtgctgaca catacaggca tatatatatg tgtgcgacga cacatgatca
+      841 tatggcatgc atgtgctctg tatgtatata aaactcttgt tttcttcttt tctctaaata
+      901 ttctttcctt atacattagg acctttgcag cataaattac tatacttcta tagacacaca
+      961 aacacaaata cacacactaa attaata
+//
+

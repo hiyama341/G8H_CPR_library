@@ -1,0 +1,33 @@
+LOCUS       pENO2                   1000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10034
+VERSION     10034
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     promoter        1..1000
+                     /name="pENO2"
+                     /color="#85DAE9"
+                     /label="pENO2"
+ORIGIN
+        1 aatcctactc ttgccgttgc catccaaaat gagctagaag gtggattaac aaatataatg
+       61 acaaatcgtt gcttgtctga cttgattcca ctacagttac aaatatttga cattgtatat
+      121 aagttttgca agttcatcaa atctatgaga gcaaaattat gtcaactgga ccccgtacta
+      181 tatgagaaac acaaaagcgg gatgatgaaa acactaaacg aaggctatcg tacaaacaat
+      241 ggcggtcagg aagatgttgg ttaccaagaa gatgccgccc tggaattaat tcagaagctg
+      301 attgaataca ttagcaacgc gtccagcatt tttcggaagt gtctcataaa ctttactcaa
+      361 gagttaagta ctgaaaaatt cgacttttat gatagttcaa gtgtcgacgc tgcgggtata
+      421 gaaagggttc tttactctat agtacctcct cgctcagcat ctgcttcttc ccaaagatga
+      481 acgcggcgtt atgtcactaa cgacgtgcac caacttgcgg aaagtggaat cccgttccaa
+      541 aactggcatc cactaattga tacatctaca caccgcacgc cttttttctg aagcccactt
+      601 tcgtggactt tgccatatgc aaaattcatg aagtgtgata ccaagtcagc atacacctca
+      661 ctagggtagt ttctttggtt gtattgatca tttggttcat cgtggttcat taattttttt
+      721 tctccattgc tttctggctt tgatcttact atcatttgga tttttgtcga aggttgtaga
+      781 attgtatgtg acaagtggca ccaagcatat ataaaaaaaa aaagcattat cttcctacca
+      841 gagttgattg ttaaaaacgt atttatagca aacgcaattg taattaattc ttattttgta
+      901 tcttttcttc ccttgtctca atcttttatt tttattttat ttttcttttc ttagtttctt
+      961 tcataacacc aagcaactaa tactataaca tacaataata
+//
+

@@ -1,0 +1,239 @@
+,index,Line_name,Amt_norm_x,Genotyped_x,0,1,2,3,Amt_norm_y,G8H,CPR,pG8H,pCPR,Genotyped_y
+0,73,yp50_D03,245.03427469317091,Fully - (Promoters and enzyme homologs),5.0,2.0,6.0,3.0,245.03427469317091,SmusG8H,AraCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+1,75,yp50_G03,156.3272849244192,Fully - (Promoters and enzyme homologs),6.0,2.0,6.0,5.0,156.3272849244192,RsepG8H,RseCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+2,86,yp50_E05,144.34085698560642,Fully - (Promoters and enzyme homologs),5.0,1.0,6.0,8.0,144.34085698560642,SmusG8H,CacCPR,pCYC1,pTPI1,Fully - (Promoters and enzyme homologs)
+3,126,yp51_A02,135.6934975453943,Fully - (Promoters and enzyme homologs),7.0,2.0,6.0,1.0,135.6934975453943,OeuG8H,CroCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+4,106,yp50_A09,134.32174594528271,Fully - (Promoters and enzyme homologs),4.0,2.0,6.0,3.0,134.32174594528271,VminG8H,AraCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+5,21,yp49_F04,131.81169715123744,Fully - (Promoters and enzyme homologs),3.0,2.0,6.0,2.0,131.81169715123744,CroG8H,AanCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+6,97,yp50_D07,123.9098045873527,Fully - (Promoters and enzyme homologs),5.0,2.0,5.0,5.0,123.9098045873527,SmusG8H,RseCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+7,123,yp51_A01,122.21049426971835,Fully - (Promoters and enzyme homologs),7.0,2.0,5.0,1.0,122.21049426971835,OeuG8H,CroCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+8,111,yp50_F10,100.4699002267856,Fully - (Promoters and enzyme homologs),6.0,2.0,5.0,4.0,100.4699002267856,RsepG8H,CloCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+9,85,yp50_D05,82.98283958228176,Fully - (Promoters and enzyme homologs),5.0,2.0,8.0,4.0,82.98283958228176,SmusG8H,CloCPR,pENO2,pURE2,Fully - (Promoters and enzyme homologs)
+10,100,yp50_A08,82.48538855486917,Fully - (Promoters and enzyme homologs),4.0,2.0,5.0,3.0,82.48538855486917,VminG8H,AraCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+11,25,yp49_F05,78.40370155675703,Fully - (Promoters and enzyme homologs),3.0,2.0,6.0,2.0,78.40370155675703,CroG8H,AanCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+12,62,yp50_G01,76.16686830287097,Fully - (Promoters and enzyme homologs),6.0,1.0,5.0,5.0,76.16686830287097,RsepG8H,RseCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+13,166,yp50_E07,75.63303879339936,Fully - (Promoters and enzyme homologs),5.0,1.0,6.0,9.0,75.63303879339936,SmusG8H,OeuCPR,pCYC1,pTPI1,Fully - (Promoters and enzyme homologs)
+14,104,yp50_E08,72.43941638742638,Fully - (Promoters and enzyme homologs),5.0,1.0,5.0,9.0,72.43941638742638,SmusG8H,OeuCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+15,90,yp50_E06,64.45920850523143,Fully - (Promoters and enzyme homologs),5.0,2.0,8.0,8.0,64.45920850523143,SmusG8H,CacCPR,pENO2,pURE2,Fully - (Promoters and enzyme homologs)
+16,72,yp50_C03,57.053306152132365,Fully - (Promoters and enzyme homologs),4.0,2.0,6.0,9.0,57.053306152132365,VminG8H,OeuCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+17,112,yp50_G10,55.2454487162281,Fully - (Promoters and enzyme homologs),6.0,2.0,8.0,8.0,55.2454487162281,RsepG8H,CacCPR,pENO2,pURE2,Fully - (Promoters and enzyme homologs)
+18,52,yp49_G11,51.88882847104978,Fully - (Promoters and enzyme homologs),3.0,1.0,6.0,8.0,51.88882847104978,CroG8H,CacCPR,pCYC1,pTPI1,Fully - (Promoters and enzyme homologs)
+19,38,yp49_C09,38.383330082317904,Fully - (Promoters and enzyme homologs),2.0,2.0,5.0,1.0,38.383330082317904,OpumG8H,CroCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+20,71,yp50_B03,36.90968288244096,Fully - (Promoters and enzyme homologs),4.0,1.0,5.0,5.0,36.90968288244096,VminG8H,RseCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+21,141,yp51_A06,36.329382058389,Fully - (Promoters and enzyme homologs),7.0,1.0,5.0,2.0,36.329382058389,OeuG8H,AanCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+22,49,yp49_C11,34.94725040014979,Fully - (Promoters and enzyme homologs),2.0,2.0,5.0,2.0,34.94725040014979,OpumG8H,AanCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+23,102,yp50_C08,34.28510866222079,Fully - (Promoters and enzyme homologs),5.0,4.0,6.0,1.0,34.28510866222079,SmusG8H,CroCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+24,79,yp50_D04,31.942668326197992,Fully - (Promoters and enzyme homologs),5.0,4.0,6.0,4.0,31.942668326197992,SmusG8H,CloCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+25,103,yp50_D08,30.7087315428516,Fully - (Promoters and enzyme homologs),5.0,4.0,6.0,5.0,30.7087315428516,SmusG8H,RseCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+26,15,yp49_F03,27.26980709109445,Fully - (Promoters and enzyme homologs),3.0,1.0,6.0,1.0,27.26980709109445,CroG8H,CroCPR,pCYC1,pTPI1,Fully - (Promoters and enzyme homologs)
+27,27,yp50_F09,26.120737347975425,Partially - (only enzyme homologs),,,,,,,,,,
+28,4,yp49_F01,25.060934437624216,Fully - (Promoters and enzyme homologs),3.0,3.0,6.0,1.0,25.060934437624216,CroG8H,CroCPR,pPCK1,pTPI1,Fully - (Promoters and enzyme homologs)
+29,96,yp50_C07,22.520176564254157,Fully - (Promoters and enzyme homologs),5.0,4.0,6.0,1.0,22.520176564254157,SmusG8H,CroCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+30,36,yp49_F08,19.529803215718992,Fully - (Promoters and enzyme homologs),3.0,1.0,8.0,3.0,19.529803215718992,CroG8H,AraCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+31,65,yp50_B02,17.916204443053907,Fully - (Promoters and enzyme homologs),4.0,2.0,8.0,5.0,17.916204443053907,VminG8H,RseCPR,pENO2,pURE2,Fully - (Promoters and enzyme homologs)
+32,67,yp50_D02,17.730545108280616,Fully - (Promoters and enzyme homologs),5.0,4.0,5.0,3.0,17.730545108280616,SmusG8H,AraCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+33,89,yp50_D06,17.083423005788802,Fully - (Promoters and enzyme homologs),5.0,2.0,8.0,4.0,17.083423005788802,SmusG8H,CloCPR,pENO2,pURE2,Fully - (Promoters and enzyme homologs)
+34,143,yp51_C06,14.00692373668145,Fully - (Promoters and enzyme homologs),7.0,2.0,5.0,10.0,14.00692373668145,OeuG8H,CpoCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+35,59,yp50_D01,13.468824632520576,Fully - (Promoters and enzyme homologs),5.0,4.0,5.0,3.0,13.468824632520576,SmusG8H,AraCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+36,149,yp51_A08,13.455001587148018,Fully - (Promoters and enzyme homologs),7.0,1.0,6.0,3.0,13.455001587148018,OeuG8H,AraCPR,pCYC1,pTPI1,Fully - (Promoters and enzyme homologs)
+37,165,yp50_F05,13.391243906423576,Fully - (Promoters and enzyme homologs),6.0,1.0,8.0,2.0,13.391243906423576,RsepG8H,AanCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+38,118,yp50_C12,11.745967786790642,Fully - (Promoters and enzyme homologs),5.0,4.0,5.0,2.0,11.745967786790642,SmusG8H,AanCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+39,64,yp50_A02,9.28809400788593,Fully - (Promoters and enzyme homologs),4.0,4.0,6.0,1.0,9.28809400788593,VminG8H,CroCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+40,94,yp50_A07,9.121285151818848,Fully - (Promoters and enzyme homologs),4.0,4.0,6.0,3.0,9.121285151818848,VminG8H,AraCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+41,81,yp50_F04,8.764470185373025,Fully - (Promoters and enzyme homologs),6.0,1.0,8.0,2.0,8.764470185373025,RsepG8H,AanCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+42,42,yp50_E11,7.3144629170504905,Partially - (only enzyme homologs),,,,,,,,,,
+43,157,yp51_B11,6.8687316730322685,Fully - (Promoters and enzyme homologs),7.0,3.0,8.0,8.0,6.8687316730322685,OeuG8H,CacCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+44,45,yp49_E10,6.85377923472564,Fully - (Promoters and enzyme homologs),2.0,2.0,6.0,10.0,6.85377923472564,OpumG8H,CpoCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+45,148,yp51_E07,6.5327611029897055,Fully - (Promoters and enzyme homologs),8.0,1.0,8.0,9.0,6.5327611029897055,CcalG8H,OeuCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+46,20,yp49_E04,6.4192028605309215,Fully - (Promoters and enzyme homologs),2.0,1.0,6.0,8.0,6.4192028605309215,OpumG8H,CacCPR,pCYC1,pTPI1,Fully - (Promoters and enzyme homologs)
+47,113,yp50_B11,5.857165858772272,Fully - (Promoters and enzyme homologs),4.0,1.0,8.0,8.0,5.857165858772272,VminG8H,CacCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+48,63,yp50_H01,4.75786530973014,Fully - (Promoters and enzyme homologs),6.0,4.0,5.0,9.0,4.75786530973014,RsepG8H,OeuCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+49,56,yp49_F12,4.511454703877461,Fully - (Promoters and enzyme homologs),3.0,1.0,8.0,4.0,4.511454703877461,CroG8H,CloCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+50,98,yp50_F07,4.451461011550373,Fully - (Promoters and enzyme homologs),6.0,4.0,5.0,3.0,4.451461011550373,RsepG8H,AraCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+51,51,yp51_E09,4.0624899973051996,Partially - (only enzyme homologs),,,,,,,,,,
+52,52,yp49_G04,4.045133080681953,Partially - (only enzyme homologs),,,,,,,,,,
+53,5,yp49_G01,3.785110661125342,Fully - (Promoters and enzyme homologs),3.0,2.0,7.0,5.0,3.785110661125342,CroG8H,RseCPR,pENO2,pMLS1,Fully - (Promoters and enzyme homologs)
+54,115,yp50_G11,3.587449997812478,Fully - (Promoters and enzyme homologs),6.0,4.0,8.0,8.0,3.587449997812478,RsepG8H,CacCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+55,110,yp50_C10,3.5276845492857687,Fully - (Promoters and enzyme homologs),5.0,3.0,5.0,2.0,3.5276845492857687,SmusG8H,AanCPR,pPCK1,pCCW12,Fully - (Promoters and enzyme homologs)
+56,152,yp51_C09,3.5012504728416243,Fully - (Promoters and enzyme homologs),8.0,2.0,6.0,1.0,3.5012504728416243,CcalG8H,CroCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+57,145,yp51_A07,3.4789262251269992,Fully - (Promoters and enzyme homologs),7.0,1.0,8.0,3.0,3.4789262251269992,OeuG8H,AraCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+58,136,yp51_A05,3.4310838312359824,Fully - (Promoters and enzyme homologs),7.0,4.0,6.0,2.0,3.4310838312359824,OeuG8H,AanCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+59,109,yp50_B10,3.416538264104448,Fully - (Promoters and enzyme homologs),4.0,4.0,8.0,8.0,3.416538264104448,VminG8H,CacCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+60,116,yp50_A12,3.207941829014107,Fully - (Promoters and enzyme homologs),4.0,4.0,5.0,4.0,3.207941829014107,VminG8H,CloCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+61,82,yp50_G04,3.079272946695541,Fully - (Promoters and enzyme homologs),6.0,2.0,6.0,6.0,3.079272946695541,RsepG8H,AhuCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+62,62,yp51_E10,3.073312149904231,Partially - (only enzyme homologs),,,,,,,,,,
+63,63,yp50_H03,2.81795153735152,Partially - (only enzyme homologs),,,,,,,,,,
+64,66,yp50_C02,2.7259917674329084,Fully - (Promoters and enzyme homologs),4.0,4.0,5.0,9.0,2.7259917674329084,VminG8H,OeuCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+65,144,yp51_D06,2.5727401739945077,Fully - (Promoters and enzyme homologs),8.0,4.0,5.0,4.0,2.5727401739945077,CcalG8H,CloCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+66,57,yp49_G12,2.435809469143854,Fully - (Promoters and enzyme homologs),3.0,1.0,7.0,8.0,2.435809469143854,CroG8H,CacCPR,pCYC1,pMLS1,Fully - (Promoters and enzyme homologs)
+67,41,yp49_F09,2.414517709511569,Fully - (Promoters and enzyme homologs),3.0,3.0,6.0,3.0,2.414517709511569,CroG8H,AraCPR,pPCK1,pTPI1,Fully - (Promoters and enzyme homologs)
+68,68,yp51_D03,2.3973896486333417,Partially - (only enzyme homologs),,,,,,,,,,
+69,93,yp50_H06,2.323535660005536,Fully - (Promoters and enzyme homologs),6.0,1.0,6.0,10.0,2.323535660005536,RsepG8H,CpoCPR,pCYC1,pTPI1,Fully - (Promoters and enzyme homologs)
+70,70,yp49_D08,2.3186663089935946,Partially - (only enzyme homologs),,,,,,,,,,
+71,124,yp51_B01,2.1856121632630297,Fully - (Promoters and enzyme homologs),7.0,4.0,7.0,5.0,2.1856121632630297,OeuG8H,RseCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+72,133,yp51_A04,2.006412439865381,Fully - (Promoters and enzyme homologs),7.0,3.0,5.0,2.0,2.006412439865381,OeuG8H,AanCPR,pPCK1,pCCW12,Fully - (Promoters and enzyme homologs)
+73,73,yp49_G03,1.899738093852655,Partially - (only enzyme homologs),,,,,,,,,,
+74,74,yp50_H02,1.8271360926346296,Partially - (only enzyme homologs),,,,,,,,,,
+75,83,yp50_A05,1.8259166085634184,Fully - (Promoters and enzyme homologs),4.0,4.0,6.0,2.0,1.8259166085634184,VminG8H,AanCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+76,76,yp49_G02,1.675783404124866,Partially - (only enzyme homologs),,,,,,,,,,
+77,77,yp50_A06,1.6629938351417777,Partially - (only enzyme homologs),,,,,,,,,,
+78,51,yp49_F11,1.613902620902481,Fully - (Promoters and enzyme homologs),3.0,4.0,7.0,4.0,1.613902620902481,CroG8H,CloCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+79,79,yp49_G08,1.3783528998572354,Partially - (only enzyme homologs),,,,,,,,,,
+80,80,yp50_G08,1.37023147492326,Partially - (only enzyme homologs),,,,,,,,,,
+81,125,yp51_C01,1.2948669576856606,Fully - (Promoters and enzyme homologs),7.0,4.0,6.0,9.0,1.2948669576856606,OeuG8H,OeuCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+82,82,yp51_C03,1.285208167373422,Partially - (only enzyme homologs),,,,,,,,,,
+83,83,yp49_E06,1.278845987261502,Partially - (only enzyme homologs),,,,,,,,,,
+84,84,yp49_G07,1.269482741620492,Partially - (only enzyme homologs),,,,,,,,,,
+85,85,yp50_H05,1.2433403259460638,Partially - (only enzyme homologs),,,,,,,,,,
+86,32,yp49_D07,1.177947411354189,Fully - (Promoters and enzyme homologs),2.0,2.0,7.0,5.0,1.177947411354189,OpumG8H,RseCPR,pENO2,pMLS1,Fully - (Promoters and enzyme homologs)
+87,107,yp50_G09,1.077089722024786,Fully - (Promoters and enzyme homologs),6.0,2.0,8.0,7.0,1.077089722024786,RsepG8H,AniCPR,pENO2,pURE2,Fully - (Promoters and enzyme homologs)
+88,70,yp50_A03,1.0756317634585204,Fully - (Promoters and enzyme homologs),4.0,4.0,8.0,1.0,1.0756317634585204,VminG8H,CroCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+89,28,yp49_A06,1.075124883333518,Fully - (Promoters and enzyme homologs),1.0,2.0,6.0,2.0,1.075124883333518,CacuG8H,AanCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+90,90,yp49_G06,1.066832639482993,Partially - (only enzyme homologs),,,,,,,,,,
+91,91,yp50_D09,1.0031837012958753,Partially - (only enzyme homologs),,,,,,,,,,
+92,10,yp49_D02,0.991606026444384,Fully - (Promoters and enzyme homologs),2.0,4.0,5.0,3.0,0.991606026444384,OpumG8H,AraCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+93,61,yp50_F01,0.9318250433314916,Fully - (Promoters and enzyme homologs),6.0,3.0,5.0,1.0,0.9318250433314916,RsepG8H,CroCPR,pPCK1,pCCW12,Fully - (Promoters and enzyme homologs)
+94,31,yp49_A07,0.930732115430378,Fully - (Promoters and enzyme homologs),1.0,1.0,5.0,3.0,0.930732115430378,CacuG8H,AraCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+95,0,yp49_A01,0.9227925961906795,Fully - (Promoters and enzyme homologs),1.0,2.0,5.0,1.0,0.9227925961906795,CacuG8H,CroCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+96,23,yp49_D05,0.9222410620492504,Fully - (Promoters and enzyme homologs),2.0,4.0,5.0,4.0,0.9222410620492504,OpumG8H,CloCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+97,50,yp49_E11,0.9189190360479512,Fully - (Promoters and enzyme homologs),2.0,2.0,7.0,10.0,0.9189190360479512,OpumG8H,CpoCPR,pENO2,pMLS1,Fully - (Promoters and enzyme homologs)
+98,53,yp49_B12,0.8974028143716937,Fully - (Promoters and enzyme homologs),1.0,2.0,6.0,8.0,0.8974028143716937,CacuG8H,CacCPR,pENO2,pTPI1,Fully - (Promoters and enzyme homologs)
+99,34,yp49_F07,0.8727377203087278,Fully - (Promoters and enzyme homologs),3.0,3.0,8.0,3.0,0.8727377203087278,CroG8H,AraCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+100,44,yp49_C10,0.8522604339305816,Fully - (Promoters and enzyme homologs),2.0,4.0,5.0,2.0,0.8522604339305816,OpumG8H,AanCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+101,40,yp49_E09,0.7727177506403,Fully - (Promoters and enzyme homologs),2.0,4.0,8.0,9.0,0.7727177506403,OpumG8H,OeuCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+102,102,yp49_H03,0.7478795029627432,Partially - (only enzyme homologs),,,,,,,,,,
+103,103,yp50_C06,0.7157708000072179,Partially - (only enzyme homologs),,,,,,,,,,
+104,26,yp49_G05,0.7144604164059408,Fully - (Promoters and enzyme homologs),3.0,4.0,8.0,6.0,0.7144604164059408,CroG8H,AhuCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+105,132,yp51_B03,0.7108296069760893,Fully - (Promoters and enzyme homologs),7.0,4.0,5.0,5.0,0.7108296069760893,OeuG8H,RseCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+106,151,yp51_E08,0.6424251163466538,Fully - (Promoters and enzyme homologs),8.0,4.0,5.0,9.0,0.6424251163466538,CcalG8H,OeuCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+107,58,yp50_C01,0.6226132283925928,Fully - (Promoters and enzyme homologs),4.0,4.0,7.0,9.0,0.6226132283925928,VminG8H,OeuCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+108,108,yp49_C07,0.6171660475496449,Partially - (only enzyme homologs),,,,,,,,,,
+109,163,yp51_D12,0.5911850733242282,Fully - (Promoters and enzyme homologs),8.0,2.0,7.0,6.0,0.5911850733242282,CcalG8H,AhuCPR,pENO2,pMLS1,Fully - (Promoters and enzyme homologs)
+110,110,yp49_H02,0.5370590055625692,Partially - (only enzyme homologs),,,,,,,,,,
+111,11,yp49_F02,0.5177873975207642,Fully - (Promoters and enzyme homologs),3.0,4.0,5.0,1.0,0.5177873975207642,CroG8H,CroCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+112,112,yp49_D10,0.5122977154251241,Partially - (only enzyme homologs),,,,,,,,,,
+113,1,yp49_C01,0.5091231905250453,Fully - (Promoters and enzyme homologs),1.0,2.0,5.0,9.0,0.5091231905250453,CacuG8H,OeuCPR,pENO2,pCCW12,Fully - (Promoters and enzyme homologs)
+114,114,yp50_C11,0.49932090509723687,Partially - (only enzyme homologs),,,,,,,,,,
+115,115,yp50_E10,0.4617608629940758,Partially - (only enzyme homologs),,,,,,,,,,
+116,164,yp51_E12,0.4486435947165383,Fully - (Promoters and enzyme homologs),8.0,1.0,6.0,10.0,0.4486435947165383,CcalG8H,CpoCPR,pCYC1,pTPI1,Fully - (Promoters and enzyme homologs)
+117,6,yp49_H01,0.436461852641983,Fully - (Promoters and enzyme homologs),3.0,3.0,8.0,9.0,0.436461852641983,CroG8H,OeuCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+118,13,yp49_C03,0.4259570616493792,Fully - (Promoters and enzyme homologs),1.0,3.0,6.0,9.0,0.4259570616493792,CacuG8H,OeuCPR,pPCK1,pTPI1,Fully - (Promoters and enzyme homologs)
+119,87,yp50_G05,0.4205477978980214,Fully - (Promoters and enzyme homologs),6.0,1.0,7.0,6.0,0.4205477978980214,RsepG8H,AhuCPR,pCYC1,pMLS1,Fully - (Promoters and enzyme homologs)
+120,120,yp49_C12,0.3961037050748585,Partially - (only enzyme homologs),,,,,,,,,,
+121,121,yp49_H04,0.39597543910536426,Partially - (only enzyme homologs),,,,,,,,,,
+122,122,yp51_D04,0.3556626075668789,Partially - (only enzyme homologs),,,,,,,,,,
+123,3,yp49_E01,0.3274890809491158,Fully - (Promoters and enzyme homologs),2.0,1.0,5.0,7.0,0.3274890809491158,OpumG8H,AniCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+124,124,yp49_E02,0.323506496773902,Partially - (only enzyme homologs),,,,,,,,,,
+125,42,yp49_G09,0.310359476488281,Fully - (Promoters and enzyme homologs),3.0,4.0,6.0,7.0,0.310359476488281,CroG8H,AniCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+126,126,yp49_H06,0.30785833431748144,Partially - (only enzyme homologs),,,,,,,,,,
+127,127,yp50_A01,0.2963828653999086,Partially - (only enzyme homologs),,,,,,,,,,
+128,108,yp50_A10,0.290588972415794,Fully - (Promoters and enzyme homologs),4.0,4.0,8.0,4.0,0.290588972415794,VminG8H,CloCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+129,129,yp49_D06,0.28772736197380017,Partially - (only enzyme homologs),,,,,,,,,,
+130,130,yp49_E08,0.28602145452277095,Partially - (only enzyme homologs),,,,,,,,,,
+131,46,yp49_F10,0.2625876913095167,Fully - (Promoters and enzyme homologs),3.0,3.0,6.0,4.0,0.2625876913095167,CroG8H,CloCPR,pPCK1,pTPI1,Fully - (Promoters and enzyme homologs)
+132,48,yp49_B11,0.2619527856489727,Fully - (Promoters and enzyme homologs),1.0,1.0,8.0,8.0,0.2619527856489727,CacuG8H,CacCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+133,7,yp49_A02,0.2555780833354444,Fully - (Promoters and enzyme homologs),1.0,3.0,8.0,1.0,0.2555780833354444,CacuG8H,CroCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+134,8,yp49_B02,0.2427773770842883,Fully - (Promoters and enzyme homologs),1.0,2.0,8.0,5.0,0.2427773770842883,CacuG8H,RseCPR,pENO2,pURE2,Fully - (Promoters and enzyme homologs)
+135,135,yp49_C08,0.2205749447207455,Partially - (only enzyme homologs),,,,,,,,,,
+136,35,yp49_A08,0.2122121539064705,Fully - (Promoters and enzyme homologs),1.0,1.0,8.0,3.0,0.2122121539064705,CacuG8H,AraCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+137,30,yp49_F06,0.2043944866572632,Fully - (Promoters and enzyme homologs),3.0,3.0,7.0,2.0,0.2043944866572632,CroG8H,AanCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+138,138,yp51_A09,0.19359429318019664,Partially - (only enzyme homologs),,,,,,,,,,
+139,16,yp49_A04,0.1922992296277597,Fully - (Promoters and enzyme homologs),1.0,3.0,8.0,2.0,0.1922992296277597,CacuG8H,AanCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+140,39,yp49_D09,0.1798448306057856,Fully - (Promoters and enzyme homologs),2.0,3.0,8.0,5.0,0.1798448306057856,OpumG8H,RseCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+141,2,yp49_D01,0.166870967337397,Fully - (Promoters and enzyme homologs),2.0,4.0,7.0,3.0,0.166870967337397,OpumG8H,AraCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+142,18,yp49_C04,0.1613876958181186,Fully - (Promoters and enzyme homologs),1.0,1.0,5.0,10.0,0.1613876958181186,CacuG8H,CpoCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+143,9,yp49_C02,0.1612530192722628,Fully - (Promoters and enzyme homologs),1.0,3.0,8.0,9.0,0.1612530192722628,CacuG8H,OeuCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+144,135,yp51_E04,0.1552399804495218,Fully - (Promoters and enzyme homologs),8.0,1.0,7.0,8.0,0.1552399804495218,CcalG8H,CacCPR,pCYC1,pMLS1,Fully - (Promoters and enzyme homologs)
+145,130,yp51_E02,0.0,Fully - (Promoters and enzyme homologs),8.0,1.0,8.0,7.0,0.0,CcalG8H,AniCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+146,150,yp51_D08,0.0,Fully - (Promoters and enzyme homologs),8.0,2.0,7.0,5.0,0.0,CcalG8H,RseCPR,pENO2,pMLS1,Fully - (Promoters and enzyme homologs)
+147,131,yp51_A03,0.0,Fully - (Promoters and enzyme homologs),7.0,4.0,7.0,1.0,0.0,OeuG8H,CroCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+148,153,yp51_D09,0.0,Fully - (Promoters and enzyme homologs),8.0,4.0,7.0,5.0,0.0,CcalG8H,RseCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+149,154,yp51_A10,0.0,Fully - (Promoters and enzyme homologs),7.0,4.0,8.0,4.0,0.0,OeuG8H,CloCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+150,161,yp51_A12,0.0,Fully - (Promoters and enzyme homologs),7.0,4.0,7.0,4.0,0.0,OeuG8H,CloCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+151,155,yp51_C10,0.0,Fully - (Promoters and enzyme homologs),8.0,3.0,8.0,2.0,0.0,CcalG8H,AanCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+152,156,yp51_D10,0.0,Fully - (Promoters and enzyme homologs),8.0,4.0,5.0,6.0,0.0,CcalG8H,AhuCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+153,76,yp50_A04,0.0,Fully - (Promoters and enzyme homologs),4.0,3.0,7.0,2.0,0.0,VminG8H,AanCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+154,121,yp50_F12,0.0,Fully - (Promoters and enzyme homologs),6.0,4.0,7.0,4.0,0.0,RsepG8H,CloCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+155,160,yp51_E11,0.0,Fully - (Promoters and enzyme homologs),8.0,3.0,7.0,10.0,0.0,CcalG8H,CpoCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+156,24,yp49_E05,0.0,Fully - (Promoters and enzyme homologs),2.0,3.0,7.0,8.0,0.0,OpumG8H,CacCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+157,92,yp50_G06,0.0,Fully - (Promoters and enzyme homologs),6.0,4.0,6.0,6.0,0.0,RsepG8H,AhuCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+158,105,yp50_F08,0.0,Fully - (Promoters and enzyme homologs),6.0,4.0,7.0,3.0,0.0,RsepG8H,AraCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+159,80,yp50_E04,0.0,Fully - (Promoters and enzyme homologs),5.0,3.0,7.0,8.0,0.0,SmusG8H,CacCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+160,84,yp50_B05,0.0,Fully - (Promoters and enzyme homologs),4.0,1.0,8.0,6.0,0.0,VminG8H,AhuCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+161,47,yp49_G10,0.0,Fully - (Promoters and enzyme homologs),3.0,3.0,7.0,8.0,0.0,CroG8H,CacCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+162,162,yp51_C12,0.0,Fully - (Promoters and enzyme homologs),8.0,3.0,7.0,2.0,0.0,CcalG8H,AanCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+163,88,yp50_B06,0.0,Fully - (Promoters and enzyme homologs),4.0,3.0,8.0,6.0,0.0,VminG8H,AhuCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+164,43,yp49_B10,0.0,Fully - (Promoters and enzyme homologs),1.0,1.0,8.0,8.0,0.0,CacuG8H,CacCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+165,91,yp50_F06,0.0,Fully - (Promoters and enzyme homologs),6.0,3.0,8.0,2.0,0.0,RsepG8H,AanCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+166,27,yp49_H05,0.0,Fully - (Promoters and enzyme homologs),3.0,3.0,7.0,10.0,0.0,CroG8H,CpoCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+167,95,yp50_B07,0.0,Fully - (Promoters and enzyme homologs),4.0,3.0,8.0,7.0,0.0,VminG8H,AniCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+168,37,yp49_A09,0.0,Fully - (Promoters and enzyme homologs),1.0,3.0,7.0,3.0,0.0,CacuG8H,AraCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+169,99,yp50_G07,0.0,Fully - (Promoters and enzyme homologs),6.0,1.0,5.0,7.0,0.0,RsepG8H,AniCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+170,101,yp50_B08,0.0,Fully - (Promoters and enzyme homologs),4.0,4.0,5.0,7.0,0.0,VminG8H,AniCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+171,33,yp49_E07,0.0,Fully - (Promoters and enzyme homologs),2.0,3.0,7.0,9.0,0.0,OpumG8H,OeuCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+172,74,yp50_E03,0.0,Fully - (Promoters and enzyme homologs),5.0,4.0,7.0,7.0,0.0,SmusG8H,AniCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+173,78,yp50_C04,0.0,Fully - (Promoters and enzyme homologs),4.0,4.0,5.0,10.0,0.0,VminG8H,CpoCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+174,54,yp49_D12,0.0,Fully - (Promoters and enzyme homologs),2.0,4.0,6.0,6.0,0.0,OpumG8H,AhuCPR,pRPL15B,pTPI1,Fully - (Promoters and enzyme homologs)
+175,55,yp49_E12,0.0,Fully - (Promoters and enzyme homologs),2.0,3.0,8.0,10.0,0.0,OpumG8H,CpoCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+176,129,yp51_D02,0.0,Fully - (Promoters and enzyme homologs),8.0,4.0,7.0,3.0,0.0,CcalG8H,AraCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+177,120,yp50_E12,0.0,Fully - (Promoters and enzyme homologs),5.0,4.0,5.0,10.0,0.0,SmusG8H,CpoCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+178,128,yp51_C02,0.0,Fully - (Promoters and enzyme homologs),7.0,3.0,5.0,9.0,0.0,OeuG8H,OeuCPR,pPCK1,pCCW12,Fully - (Promoters and enzyme homologs)
+179,127,yp51_B02,0.0,Fully - (Promoters and enzyme homologs),7.0,3.0,7.0,5.0,0.0,OeuG8H,RseCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+180,69,yp50_G02,0.0,Fully - (Promoters and enzyme homologs),6.0,3.0,8.0,5.0,0.0,RsepG8H,RseCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+181,17,yp49_B04,0.0,Fully - (Promoters and enzyme homologs),1.0,1.0,5.0,6.0,0.0,CacuG8H,AhuCPR,pCYC1,pCCW12,Fully - (Promoters and enzyme homologs)
+182,122,yp50_G12,0.0,Fully - (Promoters and enzyme homologs),6.0,3.0,7.0,8.0,0.0,RsepG8H,CacCPR,pPCK1,pMLS1,Fully - (Promoters and enzyme homologs)
+183,77,yp50_B04,0.0,Fully - (Promoters and enzyme homologs),4.0,3.0,8.0,6.0,0.0,VminG8H,AhuCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+184,119,yp50_D12,0.0,Fully - (Promoters and enzyme homologs),5.0,4.0,8.0,6.0,0.0,SmusG8H,AhuCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+185,29,yp49_B06,0.0,Fully - (Promoters and enzyme homologs),1.0,3.0,5.0,6.0,0.0,CacuG8H,AhuCPR,pPCK1,pCCW12,Fully - (Promoters and enzyme homologs)
+186,19,yp49_D04,0.0,Fully - (Promoters and enzyme homologs),2.0,3.0,8.0,4.0,0.0,OpumG8H,CloCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+187,117,yp50_B12,0.0,Fully - (Promoters and enzyme homologs),4.0,1.0,7.0,8.0,0.0,VminG8H,CacCPR,pCYC1,pMLS1,Fully - (Promoters and enzyme homologs)
+188,60,yp50_E01,0.0,Fully - (Promoters and enzyme homologs),5.0,3.0,5.0,7.0,0.0,SmusG8H,AniCPR,pPCK1,pCCW12,Fully - (Promoters and enzyme homologs)
+189,114,yp50_D11,0.0,Fully - (Promoters and enzyme homologs),5.0,4.0,8.0,6.0,0.0,SmusG8H,AhuCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+190,158,yp51_C11,0.0,Fully - (Promoters and enzyme homologs),8.0,4.0,7.0,2.0,0.0,CcalG8H,AanCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+191,184,yp49_A11,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+192,146,yp51_C07,0.0,Fully - (Promoters and enzyme homologs),8.0,1.0,7.0,1.0,0.0,CcalG8H,CroCPR,pCYC1,pMLS1,Fully - (Promoters and enzyme homologs)
+193,205,yp50_F11,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+194,181,yp49_A10,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+195,182,yp50_B09,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+196,231,yp51_B04,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+197,228,yp51_B08,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+198,226,yp51_B12,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+199,218,yp51_C08,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+200,216,yp49_C05,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+201,215,yp49_C06,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+202,206,yp49_D11,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+203,203,yp50_H04,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+204,68,yp50_E02,0.0,Fully - (Promoters and enzyme homologs),5.0,4.0,5.0,7.0,0.0,SmusG8H,AniCPR,pRPL15B,pCCW12,Fully - (Promoters and enzyme homologs)
+205,199,yp49_D03,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+206,198,yp50_F03,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+207,197,yp50_F02,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+208,196,yp50_H12,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+209,194,yp50_E09,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+210,190,yp51_D01,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+211,188,yp50_A11,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+212,187,yp51_H12,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+213,186,yp49_A12,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+214,179,yp50_C09,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+215,174,yp51_B07,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+216,173,yp51_B10,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+217,172,yp49_A05,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+218,147,yp51_D07,0.0,Fully - (Promoters and enzyme homologs),8.0,4.0,8.0,5.0,0.0,CcalG8H,RseCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+219,142,yp51_B06,0.0,Fully - (Promoters and enzyme homologs),7.0,1.0,8.0,6.0,0.0,OeuG8H,AhuCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+220,14,yp49_E03,0.0,Fully - (Promoters and enzyme homologs),2.0,4.0,7.0,7.0,0.0,OpumG8H,AniCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+221,134,yp51_C04,0.0,Fully - (Promoters and enzyme homologs),7.0,4.0,8.0,10.0,0.0,OeuG8H,CpoCPR,pRPL15B,pURE2,Fully - (Promoters and enzyme homologs)
+222,137,yp51_B05,0.0,Fully - (Promoters and enzyme homologs),7.0,1.0,7.0,6.0,0.0,OeuG8H,AhuCPR,pCYC1,pMLS1,Fully - (Promoters and enzyme homologs)
+223,138,yp51_C05,0.0,Fully - (Promoters and enzyme homologs),7.0,1.0,8.0,10.0,0.0,OeuG8H,CpoCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+224,159,yp51_D11,0.0,Fully - (Promoters and enzyme homologs),8.0,4.0,7.0,6.0,0.0,CcalG8H,AhuCPR,pRPL15B,pMLS1,Fully - (Promoters and enzyme homologs)
+225,12,yp49_B03,0.0,Fully - (Promoters and enzyme homologs),1.0,1.0,8.0,5.0,0.0,CacuG8H,RseCPR,pCYC1,pURE2,Fully - (Promoters and enzyme homologs)
+226,140,yp51_E05,0.0,Fully - (Promoters and enzyme homologs),8.0,3.0,6.0,8.0,0.0,CcalG8H,CacCPR,pPCK1,pTPI1,Fully - (Promoters and enzyme homologs)
+227,139,yp51_D05,0.0,Fully - (Promoters and enzyme homologs),8.0,3.0,8.0,4.0,0.0,CcalG8H,CloCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)
+228,185,yp50_B01,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+229,146,yp51_E01,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+230,148,yp49_B07,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+231,149,yp49_B08,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+232,150,yp49_H12,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+233,151,yp49_B09,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+234,152,yp51_E06,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+235,154,yp51_E03,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+236,165,yp50_D10,0.0,Partially - (only enzyme homologs),,,,,,,,,,
+237,22,yp49_B05,0.0,Fully - (Promoters and enzyme homologs),1.0,3.0,8.0,6.0,0.0,CacuG8H,AhuCPR,pPCK1,pURE2,Fully - (Promoters and enzyme homologs)

@@ -1,0 +1,42 @@
+LOCUS       PcoG8H_tADH1            1370 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10025
+VERSION     10025
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     terminator      complement(1..195)
+                     /label="T ADH1"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     CDS             complement(213..1370)
+                     /label="PcoG8H_opt2"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+ORIGIN
+        1 gagcgacctc atgctatacc tgagaaagca acctgaccta caggaaagag ttactcaaga
+       61 ataagaattt tcgttttaaa acctaagagt cactttaaaa tttgtataca cttatttttt
+      121 ttataactta tttaataata aaaatcataa atcataagaa attcgcttat ttagaagtgt
+      181 caacaacgta tctaccaacg gaatgcgtgc gattaaacaa cagtagatgg agtagatctc
+      241 aacataaatc ttctataatg aataaacaaa tgagaatgaa aaaaagaata attattagta
+      301 ccatcaacag ccaaacccaa atatttcatt tccataatag tttcataagt tggatcatta
+      361 ttatcttttt ccaaacaatt aataacttct tctctaactc tatcttgagc ttcttgattt
+      421 tgagccaatt caaacaaagt catagtaata gtagtagaag aagtttcaaa accagcagca
+      481 aaaaaaataa aagattgacc aataatatct tcaacagtaa tttgttgacc agaatttttc
+      541 aattgaatca acaaatccaa aaaatctttt ctaacaacat tatttttttc tctatattca
+      601 acagtttctc taataattct agaaaaatat ttagaaacat ctggttgaat attagaaata
+      661 cccaacaaac cagccatatt tggaaaaaaa atagtagcaa acaaattcaa caaatccatc
+      721 aaagtaaatt catcaaacaa atgtttacca attcttctaa attcagcatc tggattttta
+      781 aaacaattac attcaacacc aaaaataaca gaaccaacaa catcagtagt aaatctagcc
+      841 ataatttcca aaacatcaac atccaaaatt ttttcagcag attcatccaa agtagaaatc
+      901 atattagtag aacattcttt caaagtatca tacatagatt taattttagc agaagtaaaa
+      961 acagaagtaa atttatttct agaatttttc caatcttgac ctttttgaga aaacaaagta
+     1021 acagtaactg gatcattttt agtcatataa atacctctat caacaaaaga attaaaatct
+     1081 ttaatcaaaa tagttctaac atattctgga tcaaccaaaa ccaattgtgg atccataccc
+     1141 aaaaaaacac caccaacttt caaacctttt tttttaaatt cattataaaa ataattagaa
+     1201 ataataccaa tagaaatacc ttttggcaaa aaagaagtat tattaccaat tggaaaagtt
+     1261 ggttccaaat atggaacatt tcttcttttc caataaccat atttatattt aacaaacaaa
+     1321 gtagccaaca aaaccaaaga agccaacaaa atagcagctt caaccaacat
+//

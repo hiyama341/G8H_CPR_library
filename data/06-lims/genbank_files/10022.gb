@@ -1,0 +1,65 @@
+LOCUS       AthATR1_tCYC1           2262 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10022
+VERSION     10022
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..2076
+                     /label="ATR1 Arabidopsis CPR"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     terminator      2092..2262
+                     /label="T CYC1"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    complement(2097..2117)
+                     /label="Primer 225"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    complement(2207..2224)
+                     /label="Primer 18"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+ORIGIN
+        1 atgacatcag ctctttacgc ctctgatcta tttaaacagc tgaaatctat tatgggaaca
+       61 gactcattgt cagatgatgt tgttttagtg atcgctacca cctcattggc tctggtagcc
+      121 ggctttgtcg tactattgtg gaaaaaaact accgcagata gatctggtga gttgaaaccc
+      181 ttgatgattc cgaaatcact gatggctaaa gacgaagatg atgacttaga cttgggttca
+      241 ggtaaaacga gagtgtctat cttcttcggt actcagaccg gaacagctga aggttttgcc
+      301 aaagcacttt ctgaagaaat taaagcaaga tatgaaaaag ctgctgttaa agtgatcgat
+      361 ttggatgatt atgccgctga cgacgatcaa tacgaagaaa agttaaaaaa ggagacatta
+      421 gcattcttct gcgtggctac ttacggtgat ggtgaaccta ctgataacgc cgcgagattt
+      481 tacaagtggt tcacagaaga aaacgaacgt gacatcaaat tgcagcaatt ggcatatggc
+      541 gtctttgcac tgggaaacag acaatatgaa cacttcaaca aaattggtat tgtgttggat
+      601 gaagaacttt gtaaaaaagg agccaagagg ttgattgaag ttggtctagg cgacgatgat
+      661 caatcaatag aggatgactt taacgcatgg aaagagtcct tgtggtctga attggacaaa
+      721 cttttgaaag acgaggacga taagtctgtt gcgacccctt atacggctgt gatacctgaa
+      781 tatagagttg tgacgcatga tcctcgtttt acgacacaga agtcaatgga gtccaacgtt
+      841 gcgaatggaa acaccacaat tgacattcac catccctgta gagttgatgt tgccgttcaa
+      901 aaggagcttc atacgcacga aagtgacaga tcttgcatac acttagaatt tgatatttca
+      961 cgtactggta ttacttacga aaccggagat cacgtgggtg tctatgctga aaaccatgta
+     1021 gagatcgtcg aggaggcagg taaattgtta gggcacagtc ttgatttggt attttctatc
+     1081 catgccgata aagaagatgg ttcaccctta gaatccgcag tgccaccgcc tttcccaggt
+     1141 ccatgcactt tgggaacggg tttggctagg tacgctgact tgttgaatcc accaaggaaa
+     1201 tcagctttgg tggctcttgc agcgtacgca accgagccat cagaagcaga aaaattaaaa
+     1261 catcttacct ctccagatgg aaaagatgaa tactctcagt ggatagtggc atcccaacgt
+     1321 tcattgttag aagtaatggc ggccttccca tcagctaaac cgccattggg tgtttttttc
+     1381 gccgccatag ccccgaggtt acaacctagg tactattcca tttcttcatc tccaaggtta
+     1441 gctcccagta gagtgcacgt tacttcagct cttgtatatg gtccaacacc tactggtaga
+     1501 attcataagg gggtgtgtag cacatggatg aaaaacgctg taccagcaga aaaatcacat
+     1561 gaatgttctg gtgcgccaat ttttataaga gcttcaaact ttaaattgcc ttctaaccca
+     1621 tcaacaccta ttgtaatggt tggacctggt acaggattgg caccatttag gggttttttg
+     1681 caagaaagaa tggccttgaa ggaagacggg gaagaattag gttctagctt gttgttcttc
+     1741 ggatgtagaa atagacagat ggatttcatc tacgaagacg aattaaacaa ttttgtagat
+     1801 caaggtgtta tttctgaact tatcatggcg ttttctagag agggcgctca aaaagagtac
+     1861 gtacagcata agatgatgga aaaggctgct caagtttggg atttaattaa agaagaaggc
+     1921 tatctatacg tctgtggaga cgcaaagggt atggcgcgtg atgttcatag gacattacat
+     1981 actatagtcc aagaacaaga aggtgtcagt tcttctgaag ccgaggccat tgttaaaaag
+     2041 ttacaaactg aaggcagata ccttagagat gtctggtaat cgcgtgcatt catccgctct
+     2101 aaccgaaaag gaaggagtta gacaacctga agtctaggtc cctatttatt tttttatagt
+     2161 tatgttagta ttaagaacgt tatttatatt tcaaattttt cttttttttc tgtacagacg
+     2221 cgtgtacgca tgtaacatta tactgaaaac cttgcttgag aa
+//

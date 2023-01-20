@@ -1,0 +1,33 @@
+LOCUS       pURE2                    999 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10040
+VERSION     10040
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     promoter        1..999
+                     /name="pURE2"
+                     /color="#C6C9D1"
+                     /label="pURE2"
+ORIGIN
+        1 caagctgaac tcgctgaaat tgaaagaaaa ctggcagaat cgtcttctga agacgaaagt
+       61 gaagatgaca atctcaacat agaaatggat atagaggtag aagacgtcag ttcggatgaa
+      121 aatgtacatg tgaatacgaa gaataaaaag aaaagaaaaa gaaaaaaaag acaaaggttg
+      181 acacagaaac agaagaatct gaatcgttcg atgatactaa agacaaacgg agtaatgagt
+      241 tggatgatct tttagcatca ctaggagaca agggcttaca aacggatgac gatgaagatt
+      301 ggtctactaa agcgaaaaag aaaaagggca aacaacctaa aaagaattct aaatccacaa
+      361 aaagcactcc gtccttatcg actctatcgt cccctatgtc tccaacctcc gcgatcgagg
+      421 tgtgcactac atgcggagaa tcatttgata gtcgaaataa gctattcaac cacgtgaaga
+      481 tagcagggca tgcggcagtg aaaaacgtag tgaaaagaaa gaaagtcaag accaaaagaa
+      541 aatagtgaaa ccaaaccata gaacgccgaa atagaaatta ttagtagagc tgtgtagagt
+      601 ttaattcaac tgtagtcaat gtggaaaatg aataccgact gttgtctgga attcccacat
+      661 taatccgggt gacgcagcct ggaatttttt ttcaattctc gccgaatagg aggattgatg
+      721 agctgccact attgaatttt tgaggaagag tggcttcagc atatagtttt cctttctact
+      781 aggccagaaa agcaactata caaagacgaa agcttcctta ctcgaggttg aaaagaatag
+      841 caaaaatctt tccttttcaa acagctcatt tggaattgtc tatagcactg aattgaatcg
+      901 aagaggaata aagatccccc gtacgaactt ttatttttag tttttcattt tttgttatta
+      961 gtcatattgt tttaagctgc aaattaagtt ctacaccaa
+//
+

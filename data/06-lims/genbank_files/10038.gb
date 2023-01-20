@@ -1,0 +1,33 @@
+LOCUS       pMLS1                   1000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10038
+VERSION     10038
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     promoter        1..1000
+                     /name="pMLS1"
+                     /color="#F8D3A9"
+                     /label="pMLS1"
+ORIGIN
+        1 tttaatcttt agggagggta aagttggatt catcaatttg atgaaatccg tgtaaaacca
+       61 tgaggcttct tcaaaatgaa ataactctct ctcgacactc gataaatctt cattcggaca
+      121 atttataata aaacgtacta ataagtcctc taaaattcta tcaacagaag taacgttctc
+      181 caatgcgtgt cgtagcggca gtgacattgt ctaatgcgaa ggtactttta tttttttcag
+      241 attcaaagca atattattta gacaattgat actaagtgag cttaaggagg attaaacaac
+      301 tgtggaatcc ttcacaagga ttcaatattt gtttttcctg gttattttgc catcattcaa
+      361 ctttcctcag acgtaaaatt cgtgcttagt gatgtctcaa tattcccgca gggtaataaa
+      421 attcaataac tatcactata tacgcaacag tattacccta cattgctatc ggctcaatgg
+      481 aaatccccat atcatagctt ccattgggcc gatgaagtta gtcgacggat agaagcggtt
+      541 gtcccctttc ccggcgagcc ggcagtcggg ccgaggttcg gataaatttt gtattgtgtt
+      601 ttgattctgt catgagtatt acttatgttc tctttaggta accccaggtt aatcaatcac
+      661 agtttcatac cggctagtat tcaaattatg acttttcttc tgcagtgtca gccttacgac
+      721 gattatctat gagctttgaa tatagtttgc cgtgattcgt atctttaatt ggataataaa
+      781 atgcgaagga tcgatgaccc ttattattat ttttctacac tggctaccga tttaactcat
+      841 cttcttgaaa gtatataagt aacagtaaaa tataccgtac ttctgctaat gttatttgtc
+      901 ccttattttt cttttcttgt cttatgctat agtacctaag aataacgact attgttttga
+      961 actaaacaaa gtagtaaaag cacataaaag aattaagaaa
+//
+

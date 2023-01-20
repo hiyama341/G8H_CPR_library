@@ -1,0 +1,33 @@
+LOCUS       pTPI1                   1000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10039
+VERSION     10039
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     promoter        1..1000
+                     /name="pTPI1"
+                     /color="#B4ABAC"
+                     /label="pTPI1"
+ORIGIN
+        1 aaggatgagc caagaataag ggaacaagat tttggtaatt tccaaaaaat caatagcatg
+       61 caggacgtta tgaagaagag atctacgtat ggtcatttct tcttcagatt ccctcatgga
+      121 gaaagtgcgg cagatgtata tgacagagtc gccagtttcc aagagacttt attcaggcac
+      181 ttccatgata ggcaagagag aagacccaga gatgttgttg tcctagttac acatggtatt
+      241 tattccagag tattcctgat gaaatggttt agatggacat acgaagagtt tgaatcgttt
+      301 accaatgttc ctaacgggag cgtaatggtg atggaactgg acgaatccat caatagatac
+      361 gtcctgagga ccgtgctacc caaatggact gattgtgagg gagacctaac tacatagtgt
+      421 ttaaagatta cggatattta acttacttag aataatgcca tttttttgag ttataataat
+      481 cctacgttag tgtgagcggg atttaaactg tgaggacctt aatacattca gacacttctg
+      541 cggtatcacc ctacttattc ccttcgagat tatatctagg aacccatcag gttggtggaa
+      601 gattacccgt tctaagactt ttcagcttcc tctattgatg ttacacctgg acaccccttt
+      661 tctggcatcc agtttttaat cttcagtggc atgtgagatt ctccgaaatt aattaaagca
+      721 atcacacaat tctctcggat accacctcgg ttgaaactga caggtggttt gttacgcatg
+      781 ctaatgcaaa ggagcctata tacctttggc tcggctgctg taacagggaa tataaagggc
+      841 agcataattt aggagtttag tgaacttgca acatttacta ttttcccttc ttacgtaaat
+      901 atttttcttt ttaattctaa atcaatcttt ttcaattttt tgtttgtatt cttttcttgc
+      961 ttaaatctat aactacaaaa aacacataca taaactaaaa
+//
+

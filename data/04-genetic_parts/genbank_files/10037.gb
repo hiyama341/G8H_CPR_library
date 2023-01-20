@@ -1,0 +1,33 @@
+LOCUS       pCCW12                   980 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   10037
+VERSION     10037
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     promoter        1..980
+                     /name="pCCW12"
+                     /color="#B7E6D7"
+                     /label="pCCW12"
+ORIGIN
+        1 aaagaaactt aatacgttat gccgtaatga agggctacca aaaacgataa tctcaactgt
+       61 aaacaggtac aatgcggacc cttttgccac aaaacataca tcattcattg ccggaaaaag
+      121 aaagaagtga agacagcagt gcagccagcc atgttgcgcc aatctaatta tagatgctgg
+      181 tgccctgagg atgtatctgg agccagccat ggcatcatgc gctaccgccg gatgtaaaat
+      241 ccgacacgca aaagaaaacc ttcgaggttg cgcacttcgc ccacccatga accacacggt
+      301 tagtccaaaa ggggcagttc agattccaga tgcgggaatt agcttgctgc caccctcacc
+      361 tcactaacgc tgcggtgtgc ggatacttca tgctatttat agacgcgcgt gtcggaatca
+      421 gcacgcgcaa gaaccaaatg ggaaaatcgg aatgggtcca gaactgcttt gagtgctggc
+      481 tattggcgtc tgatttccgt tttgggaatc ctttgccgcg cgcccctctc aaaactccgc
+      541 acaagtccca gaaagcggga aagaaataaa acgccaccaa aaaaaaaaaa ataaaagcca
+      601 atcctcgaag cgtgggtggt aggccctgga ttatcccgta caagtatttc tcaggagtaa
+      661 aaaaaccgtt tgttttggaa ttccccattt cgcggccacc tacgccgcta tctttgcaac
+      721 aactatctgc gataactcag caaattttgc atattcgtgt tgcagtattg cgataatggg
+      781 agtcttactt ccaacataac ggcagaaaga aatgtgagaa aattttgcat cctttgcctc
+      841 cgttcaagta tataaagtcg gcatgcttga taatctttct ttccatccta cattgttcta
+      901 attattctta ttctccttta ttctttccta acataccaag aaattaatct tctgtcattc
+      961 gcttaaacac tatatcaata
+//
+
