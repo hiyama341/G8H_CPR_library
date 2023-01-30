@@ -9,10 +9,6 @@ __pycache__/
 .DS_Store
 **/.DS_Store
 
-# Notebooks
-/notebooks
-
-
 # Egg files
 *.egg-info/
 *.egg
@@ -22,9 +18,6 @@ eggs/
 # R_project initializer
 .Rproj.user
 .RData
-
-# ignore the data directory
-data/
 
 # Sphinx documentation
 docs/_build/
