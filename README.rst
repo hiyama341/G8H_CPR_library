@@ -1,13 +1,14 @@
 =============================================
-Data repository for ConStrain on Google colab
+Data repository for G8H:CPR lirbary 
 =============================================
 
-This repository is used in relation with the Python package ConStrain for constructing microbial strains 
-strains on google colab. The notebooks can be found  `here <https://github.com/hiyama341/ConStrain/tree/main/colab_notebooks>`__.
+This repository is used in relation with the Python package teemi 
+for constructing microbial strains to de-bottleneck the strictosidine pathway. 
+The notebooks can be found  `here <https://github.com/hiyama341/ConStrain/tree/main/colab_notebooks>`__.
 
 
 
-ConStrain: Literate programming can streamline bioengineering workflows
+teemi: Literate programming can streamline bioengineering workflows
 -----------------------------------------------------------------------
 
 .. summary-start
@@ -30,17 +31,17 @@ ConStrain: Literate programming can streamline bioengineering workflows
         :alt: Supported Python Versions
 
 
-What is ConStrain?
+What is Teemi?
 ~~~~~~~~~~~~~~~~~~
 
-**ConStrain** is an easy-to-use python package with functions that
+**teemi** is an easy-to-use python package with functions that
 can be used in literate programming to simulate steps of a strain 
 construction cycle from generating genetic parts, to designing a 
 combinatorial library along with instructions for the assembly. 
 A fully integrated LIMS system is presented to keep track of samples 
 and allocation through both a commercial Benchling API and a low-level CSV file database. 
 
-Here, we demonstrate the use of ConStrain in a complex machine learning-guided
+Here, we demonstrate the use of teemi in a complex machine learning-guided
 metabolic engineering task. We envision that literate programming for biology 
 can be adapted for any experimental workflow and be mixed and matched for the 
 benefit of the user. As this tool is built to be flexible through its open-source
@@ -50,15 +51,15 @@ the speed at which we engineer biology.
 Curious about how you can build strains easier and faster? Head over to our `Google Colab notebooks <https://github.com/hiyama341/ConStrain/tree/main/colab_notebooks>`__
 and give it a try.
 
-Please cite our paper (link tba) if you've used ConStrain in a scientific publication.
+Please cite our paper (link tba) if you've used teemi in a scientific publication.
 
 .. summary-end
 
-This repository is used in relation with the Python package ConStrain for constructing microbial strains strains on google colab. 
+This repository is used in relation with the Python package teemi for constructing microbial strains strains on google colab. 
 
 
 * Free software: MIT license
-* Documentation: https://constrain.readthedocs.io.
+* Documentation: https://teemi.readthedocs.io.
 
 
 Features
