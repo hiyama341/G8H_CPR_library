@@ -13,21 +13,21 @@ teemi: Literate programming can streamline bioengineering workflows
 
 .. summary-start
 
-.. image:: https://badge.fury.io/py/ConStrain.svg
-    :target: https://badge.fury.io/py/ConStrain
+.. image:: https://badge.fury.io/py/teemi.svg
+    :target: https://badge.fury.io/py/teemi
 
-.. image:: https://github.com/hiyama341/ConStrain/actions/workflows/main.yml/badge.svg
-        :target: https://github.com/hiyama341/ConStrain/actions
+.. image:: https://github.com/hiyama341/teemi/actions/workflows/main.yml/badge.svg
+        :target: https://github.com/hiyama341/teemi/actions
 
-.. image:: https://readthedocs.org/projects/constrain/badge/?version=latest
-        :target: https://constrain.readthedocs.io/en/latest/?version=latest
+.. image:: https://readthedocs.org/projects/teemi/badge/?version=latest
+        :target: https://teemi.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-.. image:: https://img.shields.io/github/license/hiyama341/ConStrain
-        :target: https://github.com/hiyama341/ConStrain/blob/main/LICENSE
+.. image:: https://img.shields.io/github/license/hiyama341/teemi
+        :target: https://github.com/hiyama341/teemi/blob/main/LICENSE
 
-.. image:: https://img.shields.io/pypi/pyversions/ConStrain.svg
-        :target: https://pypi.org/project/ConStrain/
+.. image:: https://img.shields.io/pypi/pyversions/teemi.svg
+        :target: https://pypi.org/project/teemi/
         :alt: Supported Python Versions
 
 Want to learn more about teemi and all the synbio workflows
