@@ -1,15 +1,15 @@
-=============================================
-Data repository for G8H:CPR lirbary 
-=============================================
+===================================
+Data repository for G8H:CPR library 
+===================================
 
 This repository is used in relation with the Python package teemi 
 for constructing microbial strains to de-bottleneck the strictosidine pathway. 
-The notebooks can be found  `here <https://github.com/hiyama341/ConStrain/tree/main/colab_notebooks>`__.
+The notebooks can be found  `here <https://github.com/hiyama341/teemi/tree/main/colab_notebooks>`__.
 
 
 
 teemi: Literate programming can streamline bioengineering workflows
------------------------------------------------------------------------
+-------------------------------------------------------------------
 
 .. summary-start
 
@@ -30,46 +30,11 @@ teemi: Literate programming can streamline bioengineering workflows
         :target: https://pypi.org/project/ConStrain/
         :alt: Supported Python Versions
 
-
-What is Teemi?
-~~~~~~~~~~~~~~~~~~
-
-**teemi** is an easy-to-use python package with functions that
-can be used in literate programming to simulate steps of a strain 
-construction cycle from generating genetic parts, to designing a 
-combinatorial library along with instructions for the assembly. 
-A fully integrated LIMS system is presented to keep track of samples 
-and allocation through both a commercial Benchling API and a low-level CSV file database. 
-
-Here, we demonstrate the use of teemi in a complex machine learning-guided
-metabolic engineering task. We envision that literate programming for biology 
-can be adapted for any experimental workflow and be mixed and matched for the 
-benefit of the user. As this tool is built to be flexible through its open-source
-Python platform, future repetitive tasks can be automated and thus increase 
-the speed at which we engineer biology. 
-
-Curious about how you can build strains easier and faster? Head over to our `Google Colab notebooks <https://github.com/hiyama341/ConStrain/tree/main/colab_notebooks>`__
-and give it a try.
-
-Please cite our paper (link tba) if you've used teemi in a scientific publication.
-
-.. summary-end
-
-This repository is used in relation with the Python package teemi for constructing microbial strains strains on google colab. 
-
-
+Want to learn more about teemi and all the synbio workflows
+conducted in this work? Then head over to teemi's `GitHub <https://github.com/hiyama341/teemi/tree/main/colab_notebooks>`__
+or teemi's  `documentation <https://teemi.readthedocs.io/en/latest/?version=latests>`__.
 * Free software: MIT license
 * Documentation: https://teemi.readthedocs.io.
-
-
-Features
---------
-
-* Combinatorial lirbary generation
-* Cloning and transformation workflows
-* Flowbot One instructions
-* CSV based LIMS system as well as integration to Benchling
-* Genotyping of microbial strains
 
 
 Credits
