@@ -1,0 +1,4 @@
+,0,CV_mean_MAE,CV_SD_MAE,Model_name
+56,3.4366888659340993,8.468381,3.0728931,XGBoost_lr_search_selection_AutoML_1_20230329_133922_select_grid_model_1
+112,5.198155209954296,9.641504,4.5334263,XGBoost_lr_search_selection_AutoML_2_20230329_143936_select_grid_model_4
+167,5.586957017445496,11.833032,4.0156183,DeepLearning_grid_2_AutoML_3_20230329_153942_model_6

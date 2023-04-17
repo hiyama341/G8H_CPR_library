@@ -1,6 +1,0 @@
-,0,CV_mean_MAE,CV_SD_MAE,Model_name
-60,11.03940865546465,17.445988,4.4494886,XGBoost_lr_search_selection_AutoML_16_20230108_60313_select_grid_model_3
-120,6.35827546051587,12.685257,8.597869,XGBoost_lr_search_selection_AutoML_17_20230108_70233_select_grid_model_8
-180,9.341151656204044,13.601612,3.9483314,StackedEnsemble_AllModels_5_AutoML_18_20230108_75949
-240,8.611914323659342,12.872042,3.5260856,XGBoost_lr_search_selection_AutoML_19_20230108_85738_select_grid_model_6
-296,9.44880060133024,12.66096,3.5200064,XGBoost_lr_search_selection_AutoML_20_20230108_95634_select_grid_model_7
